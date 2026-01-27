@@ -73,8 +73,8 @@ I’m a passionate **Software Engineer** from Egypt, dedicated to building scala
 ## 📫 Contact Me
 - **Email:** abdelrahmanashraf6000@gmail.com  
 - **LinkedIn:** [linkedin.com/in/abdelrahman-ashraf-fathey](https://linkedin.com/in/abdelrahman-ashraf-fathey/)  
-- **Portfolio:** [https://portfolio-frontend-lemon-gamma.vercel.app/](https://portfolio-frontend-lemon-gamma.vercel.app/)
-- **GitHub:** [github.com/AbdelrahmanAshraf62651](https://github.com/AbdelrahmanAshraf62651)
+- **Portfolio:** [portfolio-frontend-lemon-gamma.vercel.app](https://portfolio-frontend-lemon-gamma.vercel.app/)
+- **CV:** [drive.google.com/file/d/1qlFz9Cpf5D93c3yv2t0GjBQf9Ic6K0J1/view?usp=drive_link](https://drive.google.com/file/d/1qlFz9Cpf5D93c3yv2t0GjBQf9Ic6K0J1/view?usp=drive_link)
 - **CodeForces:** [3ATEF_](https://codeforces.com/profile/3ATEF_) // [_3ATEF](https://codeforces.com/profile/_3ATEF)  
 ---
 💡 *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
