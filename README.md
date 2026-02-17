@@ -5,13 +5,13 @@
       <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="50" style="vertical-align:middle;">
     </picture>
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&width=600&duration=2500&pause=1000&color=0A66C2&center=true&vCenter=true&lines=Hi%2C+I'm+Abdelrahman;Hi%2C+I'm+3ATEF"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&width=500&duration=2500&pause=1000&color=0A66C2&center=true&vCenter=true&lines=Hi%2C+I'm+Abdelrahman;Hi%2C+I'm+3ATEF"
       style="vertical-align:middle;"
     />
   </span>
 </h1>
 
-<p align="center" style="font-size:18px; color:#555; line-height:1.6; max-width:800px; margin:auto;">
+<p style="font-size:18px; color:#555; line-height:1.6; max-width:800px; margin:auto;">
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width="24" style="vertical-align:middle;">
