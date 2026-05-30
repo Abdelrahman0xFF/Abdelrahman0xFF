@@ -79,9 +79,9 @@ I’m a passionate <strong>Software Engineer</strong> from Egypt, dedicated to b
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 ## Contact Me
+- **Portfolio:** [abdelrahmanashraf.dev](https://abdelrahmanashraf.dev/)
 - **Email:** abdelrahmanashraf6000@gmail.com  
 - **LinkedIn:** [linkedin.com/in/abdelrahman-ashraf-fathey](https://linkedin.com/in/abdelrahman-ashraf-fathey/)  
-- **Portfolio:** [abdelrahmanashraf.dev](https://abdelrahmanashraf.dev/)
 - **CV:** [drive.google.com/file/d/1qlFz9Cpf5D93c3yv2t0GjBQf9Ic6K0J1/view?usp=drive_link](https://drive.google.com/file/d/1qlFz9Cpf5D93c3yv2t0GjBQf9Ic6K0J1/view?usp=drive_link)
 - **CodeForces:** [3ATEF_](https://codeforces.com/profile/3ATEF_) // [_3ATEF](https://codeforces.com/profile/_3ATEF)
 
