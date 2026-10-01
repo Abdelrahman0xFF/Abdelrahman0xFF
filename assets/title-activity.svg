@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="56" viewBox="0 0 900 56" fill="none" role="img">
+<defs><linearGradient id="bar" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
+<rect x=".75" y=".75" width="898.5" height="54.5" rx="12" fill="#111827" stroke="#243044" stroke-width="1.5"/>
+<rect x="18" y="15" width="5" height="26" rx="2.5" fill="url(#bar)"><animate attributeName="height" values="26;14;26" dur="2.4s" repeatCount="indefinite"/><animate attributeName="y" values="15;21;15" dur="2.4s" repeatCount="indefinite"/></rect>
+<text x="38" y="36" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="700" fill="#e6edf3">Contribution snake</text>
+<text x="878" y="35" text-anchor="end" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Liberation Mono','Courier New',monospace" font-size="13" fill="#8b98a9">// it eats my commits</text>
+<path d="M14 54H886" stroke="#243044" stroke-width="2"/>
+<path d="M14 54H886" stroke="#38bdf8" stroke-width="2" stroke-linecap="round" pathLength="100" stroke-dasharray="12 88"><animate attributeName="stroke-dashoffset" values="0;-100" dur="3.2s" repeatCount="indefinite"/></path>
+</svg>

@@ -1,88 +1,63 @@
-<h1 align="center" style="font-family: 'Fira Code', monospace; line-height: 1.4;">
-  <span style="display: inline-flex; align-items: center; gap: 15px;">
-    <picture>
-      <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="50" style="vertical-align:middle;">
-    </picture>
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&width=500&duration=2500&pause=1000&color=0A66C2&center=true&vCenter=true&lines=Hi%2C+I'm+Abdelrahman;Hi%2C+I'm+3ATEF"
-      style="vertical-align:middle;"
-    />
-  </span>
-</h1>
+<div align="center">
+  <img src="assets/banner.svg" alt="Abdelrahman Ashraf — Software Engineer, MERN stack and Electron.js" width="100%">
+</div>
 
-<p style="font-size:18px; color:#555; line-height:1.6; max-width:800px; margin:auto;">
-<picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width="24" style="vertical-align:middle;">
-</picture>
-<strong>Computer Engineering Student</strong> | 
-<picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" alt="🏆" width="24" style="vertical-align:middle;">
-</picture>
-<strong>Full-Stack Developer</strong>
-<br>
-I’m a passionate <strong>Software Engineer</strong> from Egypt, dedicated to building scalable, high-performance applications that merge clean code with impactful user experiences. My work spans from <strong>frontend web development</strong> to <strong>backend architecture</strong> solutions.
+<p align="center">
+  <a href="https://abdelrahmanashraf.dev"><img src="assets/btn-portfolio.svg" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/abdelrahman-ashraf-fathey"><img src="assets/btn-linkedin.svg" alt="LinkedIn"></a>
+  <a href="mailto:abdelrahmanashraf6000@gmail.com"><img src="assets/btn-email.svg" alt="Email me"></a>
+  <a href="https://drive.google.com/file/d/1qlFz9Cpf5D93c3yv2t0GjBQf9Ic6K0J1/view?usp=drive_link"><img src="assets/btn-cv.svg" alt="Download CV"></a>
+  <a href="https://codeforces.com/profile/3ATEF_"><img src="assets/btn-codeforces.svg" alt="Codeforces"></a>
 </p>
 
-## About Me
-<ul style="list-style:none; padding-left:0; font-size:16px; color:#555;">
-  <li>
-    <picture>
-      <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp">
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width="24" style="vertical-align:middle;">
-    </picture>
-    <strong>Computer Engineering</strong> @ Helwan University (Distinction Grade – 89%)
-  </li>
-  <li>
-    <picture>
-      <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.webp" type="image/webp">
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" alt="🏆" width="24" style="vertical-align:middle;">
-    </picture>
-    Skilled in <strong>MERN Stack</strong>
-  </li>
-  <li>
-    <picture>
-      <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" type="image/webp">
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" width="24" style="vertical-align:middle;">
-    </picture>
-    Interested in <strong>Software Engineering</strong>
-  </li>
-  <li>
-    <picture>
-      <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" type="image/webp">
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" width="24" style="vertical-align:middle;">
-    </picture>
-    Currently enhancing my <strong>React.js</strong> and <strong>Node.js</strong> expertise
-  </li>
-  <li>
-    <picture>
-      <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="24" style="vertical-align:middle;">
-    </picture>
-    Committed to writing <strong>clean, maintainable, and efficient code</strong>
-  </li>
-</ul>
+<img src="assets/title-about.svg" alt="About me" width="100%">
 
-## Tech Stack
-**Web Development & Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,nodejs,express,tailwind,bootstrap,figma)](https://skillicons.dev)
+<img src="assets/terminal.svg" alt="Terminal: whoami, education, focus, shipped projects" width="100%">
 
-**Programming Languages:**  
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript)](https://skillicons.dev)
+- 🎓 Computer Engineering @ **Helwan University** (Distinction, 89%)
+- 🧱 Full-stack with the **MERN stack**, plus **desktop apps with Electron.js**
+- 🔭 Currently deepening my **React.js** and **Node.js** expertise
+- ✨ I care about **clean, maintainable, efficient code**
 
-**Databases:**  
-[![My Skills](https://skillicons.dev/icons?i=mongodb,sqlite)](https://skillicons.dev)
+<img src="assets/title-stack.svg" alt="Tech stack" width="100%">
 
-**Other Tools & Skills:**  
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+<img src="assets/stack.svg" alt="Tech stack: JavaScript, TypeScript, React, Node.js, Express, MongoDB, Electron.js, Tailwind, Java, C++, Python, PostgreSQL, SQLite, Docker, Git" width="100%">
 
-## Contact Me
-- **Portfolio:** [abdelrahmanashraf.dev](https://abdelrahmanashraf.dev/)
-- **Email:** abdelrahmanashraf6000@gmail.com  
-- **LinkedIn:** [linkedin.com/in/abdelrahman-ashraf-fathey](https://linkedin.com/in/abdelrahman-ashraf-fathey/)  
-- **CV:** [drive.google.com/file/d/1qlFz9Cpf5D93c3yv2t0GjBQf9Ic6K0J1/view?usp=drive_link](https://drive.google.com/file/d/1qlFz9Cpf5D93c3yv2t0GjBQf9Ic6K0J1/view?usp=drive_link)
-- **CodeForces:** [3ATEF_](https://codeforces.com/profile/3ATEF_) // [_3ATEF](https://codeforces.com/profile/_3ATEF)
+<img src="assets/title-projects.svg" alt="Featured projects" width="100%">
 
-💡 *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://maqhaa.abdelrahmanashraf.dev/"><img src="assets/card-maqhaa.svg" width="400" alt="Maqhaa: offline-first café and restaurant POS built with Electron.js"></a><br>
+      <a href="https://maqhaa.abdelrahmanashraf.dev/">Live site</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Abdelrahman0xFF/nexus-academy"><img src="assets/card-nexus.svg" width="400" alt="Nexus Academy: full-stack learning management system"></a><br>
+      <a href="https://nexus.abdelrahmanashraf.dev/">Live demo</a> · <a href="https://github.com/Abdelrahman0xFF/nexus-academy">Source</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Abdelrahman0xFF/zagel"><img src="assets/card-zagel.svg" width="400" alt="Zagel: WhatsApp REST API gateway and developer cockpit"></a><br>
+      <a href="https://github.com/Abdelrahman0xFF/zagel">Source</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Abdelrahman0xFF/clinic-appointment"><img src="assets/card-clinic.svg" width="400" alt="Clinic Appointment: full-stack clinic management system"></a><br>
+      <a href="https://github.com/Abdelrahman0xFF/clinic-appointment">Source</a>
+    </td>
+  </tr>
+</table>
+
+<img src="assets/title-activity.svg" alt="Contribution snake" width="100%">
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdelrahman0xFF/Abdelrahman0xFF/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdelrahman0xFF/Abdelrahman0xFF/output/github-snake.svg">
+    <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/Abdelrahman0xFF/Abdelrahman0xFF/output/github-snake.svg" width="100%">
+  </picture>
+</div>
+
+<img src="assets/title-connect.svg" alt="Let's connect" width="100%">
+
+<img src="assets/footer.svg" alt="Code is like humor. When you have to explain it, it's bad. — Cory House" width="100%">

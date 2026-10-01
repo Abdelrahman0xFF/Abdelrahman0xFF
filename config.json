@@ -1,0 +1,132 @@
+{
+  "theme": {
+    "bg": "#0b0f17",
+    "panel": "#111827",
+    "border": "#243044",
+    "text": "#e6edf3",
+    "muted": "#8b98a9",
+    "accent": "#38bdf8",
+    "accent2": "#a78bfa",
+    "accent3": "#34d399",
+    "warm": "#fb923c"
+  },
+
+  "profile": {
+    "greeting": "// hello, world. I'm",
+    "name": "Abdelrahman Ashraf",
+    "tagline": "Software Engineer · MERN Stack · Electron.js",
+    "typing": [
+      "MERN Stack Developer",
+      "Maqhaa · Nexus Academy · Zagel",
+      "Computer Engineering @ Helwan University"
+    ],
+    "symbols": ["{ }", "</>", "=>", "[ ]", "( )", "0xFF", "&&", "npm", "git", "JSX", ";", "#"],
+    "orbit": [
+      { "ring": 0, "label": "JS", "color": "#f7df1e", "angle": 0 },
+      { "ring": 0, "label": "R",  "color": "#61dafb", "angle": 120 },
+      { "ring": 0, "label": "N",  "color": "#5fa04e", "angle": 240 },
+      { "ring": 1, "label": "E",  "color": "#47848f", "angle": 60 },
+      { "ring": 1, "label": "M",  "color": "#47a248", "angle": 200 },
+      { "ring": 1, "label": "TS", "color": "#3178c6", "angle": 320 }
+    ]
+  },
+
+  "terminal": {
+    "title": "abdelrahman@0xff: ~/about",
+    "blocks": [
+      { "cmd": "whoami",            "out": "Abdelrahman Ashraf — Software Engineer · Cairo, Egypt", "color": "accent3" },
+      { "cmd": "cat education.txt", "out": "Computer Engineering @ Helwan University — Distinction (89%)", "color": "text" },
+      { "cmd": "echo $FOCUS",       "out": "MERN stack · Electron.js desktop apps · clean, maintainable code", "color": "accent" },
+      { "cmd": "ls ./shipped",      "out": "maqhaa/  nexus-academy/  zagel/  clinic-appointment/", "color": "warm" }
+    ]
+  },
+
+  "sections": [
+    { "id": "about",    "title": "About me",          "hint": "// whoami" },
+    { "id": "stack",    "title": "Tech stack",        "hint": "// what I build with" },
+    { "id": "projects", "title": "Featured projects", "hint": "// shipped & running" },
+    { "id": "activity", "title": "Contribution snake","hint": "// it eats my commits" },
+    { "id": "connect",  "title": "Let's connect",     "hint": "// say hi" }
+  ],
+
+  "stack": {
+    "row1": [
+      { "name": "JavaScript", "color": "#f7df1e" },
+      { "name": "TypeScript", "color": "#3178c6" },
+      { "name": "React",      "color": "#61dafb" },
+      { "name": "Node.js",    "color": "#5fa04e" },
+      { "name": "Express",    "color": "#e6edf3" },
+      { "name": "MongoDB",    "color": "#47a248" },
+      { "name": "Electron.js","color": "#47848f" },
+      { "name": "Tailwind CSS","color": "#38bdf8" },
+      { "name": "Next.js",    "color": "#ffffff" },
+      { "name": "Zustand",    "color": "#fb923c" }
+    ],
+    "row2": [
+      { "name": "Java",       "color": "#f89820" },
+      { "name": "C++",        "color": "#00599c" },
+      { "name": "Python",     "color": "#3776ab" },
+      { "name": "PostgreSQL", "color": "#4169e1" },
+      { "name": "SQLite",     "color": "#44a1d6" },
+      { "name": "Docker",     "color": "#2496ed" },
+      { "name": "Git",        "color": "#f05032" },
+      { "name": "GitHub",     "color": "#a78bfa" },
+      { "name": "Vite",       "color": "#646cff" },
+      { "name": "Stripe",     "color": "#635bff" },
+      { "name": "Postman",    "color": "#ff6c37" },
+      { "name": "Figma",      "color": "#f24e1e" }
+    ]
+  },
+
+  "projects": [
+    {
+      "id": "maqhaa",
+      "title": "Maqhaa · مقهى",
+      "label": "Desktop · Electron.js",
+      "desc": "Offline-first point-of-sale for cafés and restaurants, with a full Arabic RTL interface, shift and cash management, and offline licensing.",
+      "tags": ["Electron.js", "React 19", "Tailwind", "Zustand", "SQLite"],
+      "color": "#fb923c",
+      "icon": "coffee"
+    },
+    {
+      "id": "nexus",
+      "title": "Nexus Academy",
+      "label": "Full-stack · LMS",
+      "desc": "Learning platform for students, instructors and admins: course player with saved progress, Stripe payments, and PDF certificates at 95% completion.",
+      "tags": ["React", "TypeScript", "Node.js", "Express", "Stripe", "Tailwind"],
+      "color": "#38bdf8",
+      "icon": "progress"
+    },
+    {
+      "id": "zagel",
+      "title": "Zagel · زاجل",
+      "label": "Backend · REST API",
+      "desc": "Production-grade WhatsApp gateway with a developer cockpit: OTP, bulk dispatch, media, and signed webhooks in a single Docker container.",
+      "tags": ["Node.js", "Express", "Baileys", "MongoDB", "Docker"],
+      "color": "#34d399",
+      "icon": "plane"
+    },
+    {
+      "id": "clinic",
+      "title": "Clinic Appointment",
+      "label": "Full-stack · Graduation project",
+      "desc": "Clinic appointment and management system with a typed React frontend, a validated Express API, and image uploads through Cloudinary.",
+      "tags": ["React", "TypeScript", "Express", "MongoDB", "Joi", "Cloudinary"],
+      "color": "#a78bfa",
+      "icon": "pulse"
+    }
+  ],
+
+  "contact": [
+    { "id": "portfolio",  "label": "Portfolio",  "color": "#38bdf8" },
+    { "id": "linkedin",   "label": "LinkedIn",   "color": "#3b82f6" },
+    { "id": "email",      "label": "Email me",   "color": "#fb923c" },
+    { "id": "cv",         "label": "Download CV","color": "#34d399" },
+    { "id": "codeforces", "label": "Codeforces", "color": "#a78bfa" }
+  ],
+
+  "footer": {
+    "quote": "Code is like humor. When you have to explain it, it's bad.",
+    "author": "Cory House"
+  }
+}
