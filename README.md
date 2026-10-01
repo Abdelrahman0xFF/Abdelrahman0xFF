@@ -7,17 +7,11 @@
   <a href="https://www.linkedin.com/in/abdelrahman-ashraf-fathey"><img src="assets/btn-linkedin.svg" alt="LinkedIn"></a>
   <a href="mailto:abdelrahmanashraf6000@gmail.com"><img src="assets/btn-email.svg" alt="Email me"></a>
   <a href="https://drive.google.com/file/d/1qlFz9Cpf5D93c3yv2t0GjBQf9Ic6K0J1/view?usp=drive_link"><img src="assets/btn-cv.svg" alt="Download CV"></a>
-  <a href="https://codeforces.com/profile/3ATEF_"><img src="assets/btn-codeforces.svg" alt="Codeforces"></a>
 </p>
 
 <img src="assets/title-about.svg" alt="About me" width="100%">
 
 <img src="assets/terminal.svg" alt="Terminal: whoami, education, focus, shipped projects" width="100%">
-
-- 🎓 Computer Engineering @ **Helwan University** (Distinction, 89%)
-- 🧱 Full-stack with the **MERN stack**, plus **desktop apps with Electron.js**
-- 🔭 Currently deepening my **React.js** and **Node.js** expertise
-- ✨ I care about **clean, maintainable, efficient code**
 
 <img src="assets/title-stack.svg" alt="Tech stack" width="100%">
 
@@ -59,5 +53,12 @@
 </div>
 
 <img src="assets/title-connect.svg" alt="Let's connect" width="100%">
+
+<p align="center">
+  <a href="https://abdelrahmanashraf.dev"><img src="assets/btn-portfolio.svg" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/abdelrahman-ashraf-fathey"><img src="assets/btn-linkedin.svg" alt="LinkedIn"></a>
+  <a href="mailto:abdelrahmanashraf6000@gmail.com"><img src="assets/btn-email.svg" alt="Email me"></a>
+  <a href="https://drive.google.com/file/d/1qlFz9Cpf5D93c3yv2t0GjBQf9Ic6K0J1/view?usp=drive_link"><img src="assets/btn-cv.svg" alt="Download CV"></a>
+</p>
 
 <img src="assets/footer.svg" alt="Code is like humor. When you have to explain it, it's bad. — Cory House" width="100%">
