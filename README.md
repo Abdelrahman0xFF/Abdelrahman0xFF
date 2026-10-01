@@ -21,23 +21,26 @@
 
 <table align="center">
   <tr>
-    <td align="center">
-      <a href="https://maqhaa.abdelrahmanashraf.dev/"><img src="assets/card-maqhaa.svg" width="400" alt="Maqhaa: offline-first café and restaurant POS built with Electron.js"></a><br>
-      <a href="https://maqhaa.abdelrahmanashraf.dev/">Live site</a>
+    <td align="center" style="padding-bottom: 24px;">
+      <a href="https://maqhaa.abdelrahmanashraf.dev/"><img src="assets/card-maqhaa.svg" width="400" alt="Maqhaa POS"></a><br><br>
+      <a href="https://maqhaa.abdelrahmanashraf.dev/"><img src="assets/btn-maqhaa-live.svg" alt="Live App"></a>
     </td>
-    <td align="center">
-      <a href="https://github.com/Abdelrahman0xFF/nexus-academy"><img src="assets/card-nexus.svg" width="400" alt="Nexus Academy: full-stack learning management system"></a><br>
-      <a href="https://nexus.abdelrahmanashraf.dev/">Live demo</a> · <a href="https://github.com/Abdelrahman0xFF/nexus-academy">Source</a>
+    <td align="center" style="padding-bottom: 24px;">
+      <a href="https://github.com/Abdelrahman0xFF/nexus-academy"><img src="assets/card-nexus.svg" width="400" alt="Nexus Academy"></a><br><br>
+      <a href="https://nexus.abdelrahmanashraf.dev/"><img src="assets/btn-nexus-live.svg" alt="Live Demo"></a>
+      <a href="https://github.com/Abdelrahman0xFF/nexus-academy"><img src="assets/btn-nexus-src.svg" alt="Code"></a>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://github.com/Abdelrahman0xFF/zagel"><img src="assets/card-zagel.svg" width="400" alt="Zagel: WhatsApp REST API gateway and developer cockpit"></a><br>
-      <a href="https://github.com/Abdelrahman0xFF/zagel">Source</a>
+    <td align="center" style="padding-bottom: 24px;">
+      <a href="https://github.com/Abdelrahman0xFF/zagel"><img src="assets/card-zagel.svg" width="400" alt="Zagel"></a><br><br>
+      <a href="https://github.com/Abdelrahman0xFF/zagel"><img src="assets/btn-zagel-src.svg" alt="Code"></a>
+      <a href="https://zagel.abdelrahmanashraf.dev/"><img src="assets/btn-zagel-live.svg" alt="Live Site"></a>
     </td>
-    <td align="center">
-      <a href="https://github.com/Abdelrahman0xFF/clinic-appointment"><img src="assets/card-clinic.svg" width="400" alt="Clinic Appointment: full-stack clinic management system"></a><br>
-      <a href="https://github.com/Abdelrahman0xFF/clinic-appointment">Source</a>
+    <td align="center" style="padding-bottom: 24px;">
+      <a href="https://github.com/Abdelrahman0xFF/clinic-appointment"><img src="assets/card-clinic.svg" width="400" alt="Clinic Appointment"></a><br><br>
+      <a href="https://github.com/Abdelrahman0xFF/clinic-appointment"><img src="assets/btn-clinic-src.svg" alt="Code"></a>
+      <a href="https://medicare-ashy-one.vercel.app/"><img src="assets/btn-clinic-live.svg" alt="Live Demo"></a>
     </td>
   </tr>
 </table>
